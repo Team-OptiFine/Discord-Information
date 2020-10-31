@@ -2,7 +2,7 @@
   <h1>General</h1>
 </div>
 
-### When is [version/feature/something else] gonna be done!?!?
+### When is `[version/feature/something else]` gonna be done!?!?
 When it's done. These things take time, and unfortunately, it is simply not realistic to give an official estimate on any OptiFine-related project.
 
 ### What are "preview Versions", and where can I get them?
@@ -50,14 +50,14 @@ The Mojang mappings are officially stated as being for "internal, reference purp
 For more information, check out this article written by [@cpw](https://twitter.com/voxcpw): https://cpw.github.io/MinecraftMappingData
 
 ### Why isn't OptiFine open-source?
-The core of OptiFine consists of many, various changes to Minecraft's rendering code. Rather than simple patches, these are significant reorganizations. This means publishing the full source code of OptiFine would be a direct violation of Minecraft's EULA. Technically, it would be possible to extract the actual changes as patches, which can then be published to GitHub as source code. However, there are a number of issues with this idea. First, OptiFine is built on a custom version of Mod Coder Pack. This non-standard version of MCP is used to allow OptiFine to start development on new versions of the game much, much earlier. During this time, official MCP mappings are either completely missing, or otherwise very unstable. Unfortunately, according to the MCP license and Terms of Usage, modified versions of MCP scripts are not allowed to be distributed. This means that, even if OptiFine patches were released, nobody else would be able to collaborate on the code, defeating the entire purpose of going open-source. Even if somehow *all of that* was solved, this would still mean significantly changing how OptiFine development is handled. <@202558206495555585> does not work on the mod using patches, which means he would have to either merge the patches manually, or completely change his entire workflow to use patches. Changing the development process like this would not be a trivial task in the slightest.
+The core of OptiFine consists of many, various changes to Minecraft's rendering code. Rather than simple patches, these are significant reorganizations. This means publishing the full source code of OptiFine would be a direct violation of Minecraft's EULA. Technically, it would be possible to extract the actual changes as patches, which can then be published to GitHub as source code. However, there are a number of issues with this idea. First, OptiFine is built on a custom version of Mod Coder Pack. This non-standard version of MCP is used to allow OptiFine to start development on new versions of the game much, much earlier. During this time, official MCP mappings are either completely missing, or otherwise very unstable. Unfortunately, according to the MCP license and Terms of Usage, modified versions of MCP scripts are not allowed to be distributed. This means that, even if OptiFine patches were released, nobody else would be able to collaborate on the code, defeating the entire purpose of going open-source. Even if somehow *all of that* was solved, this would still mean significantly changing how OptiFine development is handled. sp614x does not work on the mod using patches, which means he would have to either merge the patches manually, or completely change his entire workflow to use patches. Changing the development process like this would not be a trivial task in the slightest.
 
 In summary, due to a *multitude* of legal and technical complications, sp614x cannot make OptiFine open-source.
 
 ### Since OptiFine isn't open-source, what happens if the developer disappears, or just gives up and quits?
 First of all, it's almost certainly *not* gonna happen any time soon. Regardless, if it ever comes down to it, Java programs are not difficult to decompile. If sp614x ever went missing, virtually anyone with the right knowledge could decompile OptiFine in its entirety, compare it to decompiled vanilla Minecraft code, and extract the patches.
 
-Alternatively (that being, the much better outcome), if <@202558206495555585> ever decides to quit, he is willing to publish OptiFine's patches to GitHub. With that said, there are currently no plans to stop OptiFine development. Either way, OptiFine can live again.
+Alternatively (that being, the much better outcome), if sp614x ever decides to quit, he is willing to publish OptiFine's patches to GitHub. With that said, there are currently no plans to stop OptiFine development. Either way, OptiFine can live again.
 
 ### Why hasn't Mojang adopted OptiFine as an official part of the game?
 The original story most people know of is this:
@@ -119,7 +119,7 @@ OptiFine capes are linked your account at all times, even when changing your use
 There is a *very* slim chance that your internet service provider may be caching certain things "for your convenience." There have been a small number of cases where this was the issue, and the only solution was to temporarily switch to a mobile network. The cape should reappear on the normal connection within several days.
 
 #### 5. Your donation is still being processed.
-If you've only recently made a donation, in some cases it may take up to several days before the donation is fully processed and your cape can be activated. If you do not receive your cape within a week of donating, please try following the steps listed above before contacting <@202558206495555585>.
+If you've only recently made a donation, in some cases it may take up to several days before the donation is fully processed and your cape can be activated. If you do not receive your cape within a week of donating, please try following the steps listed above before contacting sp614x.
 
 <div align="center">
   <h1>Compatibility</h1>
