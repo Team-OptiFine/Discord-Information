@@ -161,7 +161,7 @@ As far as we're aware, no. Currently, OptiFine is the only known mod that provid
 </div>
 
 ### How do I get the Donator role?
-DM (direct message) OptiBot with the following command for detailed instructions: `!help dr`
+DM (direct message) OptiBot#8057 with the following command for detailed instructions: `!help dr`
 
 ### How do I get the Shader Developer/Texture Artist/Modder role?
 These roles are given to users that show proficiency in their given field. If you feel you qualify for one or more of these roles, simply ask any online moderator for assistance. You can summon a moderator with this command: `!modping`
