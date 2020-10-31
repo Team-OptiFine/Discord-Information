@@ -1,6 +1,6 @@
-<center>
+<div align="center">
   <h1>General</h1>
-</center>
+</div>
 
 ### When is [version/feature/something else] gonna be done!?!?
 When it's done. These things take time, and unfortunately, it is simply not realistic to give an official estimate on any OptiFine-related project.
@@ -66,9 +66,9 @@ The original story most people know of is this:
 
 The reality is, Mojang and Microsoft cannot accept the modifications OptiFine has made, due to a legal policy held between both Mojang and Microsoft that does not allow for external code to be accepted outside of their internal development team. Therefore, there's nothing that OptiFine *could* do to get it added into vanilla Minecraft. It has nothing to do with the zoom or shader features that most people think is the reason this never happened. Really, it's a matter of legal policies that cannot be bypassed.
 
-<center>
+<div align="center">
   <h1>Donations & Capes</h1>
-</center>
+</div>
 
 ### How do I change my donation E-mail?
 Unfortunately, it is currently not possible to change donation E-mails. We don't know if this functionality will be added in the future.
@@ -121,9 +121,9 @@ There is a *very* slim chance that your internet service provider may be caching
 #### 5. Your donation is still being processed.
 If you've only recently made a donation, in some cases it may take up to several days before the donation is fully processed and your cape can be activated. If you do not receive your cape within a week of donating, please try following the steps listed above before contacting <@202558206495555585>.
 
-<center>
+<div align="center">
   <h1>Compatibility</h1>
-</center>
+</div>
 
 ### Can I force OptiFine to install on a different, newer version of Minecraft?
 No. Each version of OptiFine is specifically developed for a single version of the game. Even if you *somehow* managed to force install OptiFine on a different version, it would more than likely crash immediately, or at the VERY least, have a multitude of bugs and other issues.
@@ -141,9 +141,9 @@ Please note that *some* versions of OptiFine are NOT compatible with Forge at al
 ### Is OptiFine compatible with Fabric?
 Officially, no. OptiFine does not plan to add native support for Fabric as it currently does for Forge. However, there is a third-party mod that adds compatibility for OptiFine on Fabric. You can check it out here: https://www.curseforge.com/minecraft/mc-mods/optifabric
 
-<center>
+<div align="center">
   <h1>Shaders</h1>
-</center>
+</div>
 
 ### What are "internal" shaders?
 "Internal" shaders enable OptiFine's shader system without loading any special shader programs (or "packs"). This can be used to test if shaders work at all on your computer (could be useful if you have potentially outdated hardware), or they can be used to simply "disable" shaders without having to reload a significant amount of resources.
@@ -156,9 +156,9 @@ To be clear, this does NOT mean RTX cards cannot run shaders at all. This only m
 ### Can I use shaders without OptiFine?
 As far as we're aware, no. Currently, OptiFine is the only known mod that provides support for shader packs. Unfortunately, the original Shaders Mod (of which OptiFine shaders are based off of) no longer seems to be available to download.
 
-<center>
+<div align="center">
   <h1>Discord</h1>
-</center>
+</div>
 
 ### How do I get the Donator role?
 DM (direct message) OptiBot with the following command for detailed instructions: `!help dr`
