@@ -1,3 +1,8 @@
+<!--
+source: https://raw.githubusercontent.com/Team-OptiFine/OptiBot/38692ca84ed61804f2ecbb9b955726ae5d59354d/modules/util/faq.js?token=AHRX4L7LEGV3FN55AEULNTS7TTXXC
+
+-->
+
 <div align="center">
   <h1>General</h1>
 </div>
@@ -5,7 +10,7 @@
 ### When is `[version/feature/something else]` gonna be done!?!?
 When it's done. These things take time, and unfortunately, it is simply not realistic to give an official estimate on any OptiFine-related project.
 
-### What are "preview Versions", and where can I get them?
+### What are "Preview Versions", and where can I get them?
 "Preview Versions" are OptiFine's "beta" or "alpha" releases. They're usually buggy and unstable, and NOT recommended for regular usage. However, if you'd like to use these versions (especially to help find bugs), you can head to https://optifine.net/downloads and click on "Preview Versions" next to the given version of Minecraft you'd like to use. Do note that Preview Versions are only temporary, and will be removed from the website after the given version has been tested and stabilized. Preview versions are not guaranteed to be available for any version of the game.
 
 ### I'm trying to download OptiFine, but the download button won't show. What do I do?
@@ -50,14 +55,14 @@ The Mojang mappings are officially stated as being for "internal, reference purp
 For more information, check out this article written by [@cpw](https://twitter.com/voxcpw): https://cpw.github.io/MinecraftMappingData
 
 ### Why isn't OptiFine open-source?
-The core of OptiFine consists of many, various changes to Minecraft's rendering code. Rather than simple patches, these are significant reorganizations. This means publishing the full source code of OptiFine would be a direct violation of Minecraft's EULA. Technically, it would be possible to extract the actual changes as patches, which can then be published to GitHub as source code. However, there are a number of issues with this idea. First, OptiFine is built on a custom version of Mod Coder Pack. This non-standard version of MCP is used to allow OptiFine to start development on new versions of the game much, much earlier. During this time, official MCP mappings are either completely missing, or otherwise very unstable. Unfortunately, according to the MCP license and Terms of Usage, modified versions of MCP scripts are not allowed to be distributed. This means that, even if OptiFine patches were released, nobody else would be able to collaborate on the code, defeating the entire purpose of going open-source. Even if somehow *all of that* was solved, this would still mean significantly changing how OptiFine development is handled. sp614x does not work on the mod using patches, which means he would have to either merge the patches manually, or completely change his entire workflow to use patches. Changing the development process like this would not be a trivial task in the slightest.
+The core of OptiFine consists of many, various changes to Minecraft's rendering code. Rather than simple patches, these are significant reorganizations. This means publishing the full source code of OptiFine would be a direct violation of Minecraft's EULA. Technically, it would be possible to extract the actual changes as patches, which can then be published to GitHub as source code. However, there are a number of issues with this idea. First, OptiFine is built on a custom version of Mod Coder Pack. This non-standard version of MCP is used to allow OptiFine to start development on new versions of the game much, much earlier. During this time, official MCP mappings are either completely missing, or otherwise very unstable. Unfortunately, according to the MCP license and Terms of Usage, modified versions of MCP scripts are not allowed to be distributed. This means that, even if OptiFine patches were released, nobody else would be able to collaborate on the code, defeating the entire purpose of going open-source. Even if somehow *all of that* was solved, this would still mean significantly changing how OptiFine development is handled. <!--OB-replace-->sp614x<!--OB-<@202558206495555585>--> does not work on the mod using patches, which means he would have to either merge the patches manually, or completely change his entire workflow to use patches. Changing the development process like this would not be a trivial task in the slightest.
 
-In summary, due to a *multitude* of legal and technical complications, sp614x cannot make OptiFine open-source.
+In summary, due to a *multitude* of legal and technical complications, <!--OB-replace-->sp614x<!--OB-<@202558206495555585>--> cannot make OptiFine open-source.
 
 ### Since OptiFine isn't open-source, what happens if the developer disappears, or just gives up and quits?
-First of all, it's almost certainly *not* gonna happen any time soon. Regardless, if it ever comes down to it, Java programs are not difficult to decompile. If sp614x ever went missing, virtually anyone with the right knowledge could decompile OptiFine in its entirety, compare it to decompiled vanilla Minecraft code, and extract the patches.
+First of all, it's almost certainly *not* gonna happen any time soon. Regardless, if it ever comes down to it, Java programs are not difficult to decompile. If <!--OB-replace-->sp614x<!--OB-<@202558206495555585>--> ever went missing, virtually anyone with the right knowledge could decompile OptiFine in its entirety, compare it to decompiled vanilla Minecraft code, and extract the patches.
 
-Alternatively (that being, the much better outcome), if sp614x ever decides to quit, he is willing to publish OptiFine's patches to GitHub. With that said, there are currently no plans to stop OptiFine development. Either way, OptiFine can live again.
+Alternatively (that being, the much better outcome), if <!--OB-replace-->sp614x<!--OB-<@202558206495555585>--> ever decides to quit, he is willing to publish OptiFine's patches to GitHub. With that said, there are currently no plans to stop OptiFine development. Either way, OptiFine can live again.
 
 ### Why hasn't Mojang adopted OptiFine as an official part of the game?
 The original story most people know of is this:
@@ -88,7 +93,7 @@ You cannot, for various reasons:
 
 Custom capes for everyone would require some form of moderation to prevent these types of capes being uploaded and used. Given how many people have donator capes, and how many would likely start submitting the type of garbage listed above, this is simply, completely unrealistic.
 
-In addition, you might be aware that there are already a few custom capes in existence. These capes were only gifted to a very small number of people for very specific, individual reasons. Please **do not** ask for one yourself. sp614x himself has stated that he will not be adding any more custom capes.
+In addition, you might be aware that there are already a few custom capes in existence. These capes were only gifted to a very small number of people for very specific, individual reasons. Please **do not** ask for one yourself. <!--OB-replace-->sp614x<!--OB-<@202558206495555585>--> himself has stated that he will not be adding any more custom capes.
 
 ### My cape was stolen! What do I do?
 First of all, please note: __**Administrators CAN NOT and WILL NOT move capes for you!!!**__
@@ -119,7 +124,7 @@ OptiFine capes are linked your account at all times, even when changing your use
 There is a *very* slim chance that your internet service provider may be caching certain things "for your convenience." There have been a small number of cases where this was the issue, and the only solution was to temporarily switch to a mobile network. The cape should reappear on the normal connection within several days.
 
 #### 5. Your donation is still being processed.
-If you've only recently made a donation, in some cases it may take up to several days before the donation is fully processed and your cape can be activated. If you do not receive your cape within a week of donating, please try following the steps listed above before contacting sp614x.
+If you've only recently made a donation, in some cases it may take up to several days before the donation is fully processed and your cape can be activated. If you do not receive your cape within a week of donating, please try following the steps listed above before contacting <!--OB-replace-->sp614x<!--OB-<@202558206495555585>-->.
 
 <div align="center">
   <h1>Compatibility</h1>
