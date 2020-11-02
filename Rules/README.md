@@ -61,7 +61,7 @@ None.
 *Please.* It's not difficult, we promise. Think before speaking, try doing your own research, respect other's opinions, and overall, have some decency.
 
 ### Please DO NOT ping or privately message Moderators or Administrators for technical support.
-Any questions about OptiFine should be redirected to <!--OB-replace-->#support<!--OB-<#423433009568546827>-->. Here, more people will see your question or issue, and you'll be much, MUCH more likely to get faster and better help.
+Any questions about OptiFine should be redirected to <!--OB-replace-->**#support**<!--OB-<#423433009568546827>-->. Here, more people will see your question or issue, and you'll be much, MUCH more likely to get faster and better help.
 
 ### Don't ask to ask, just ask.
 In other words, please don't say "Can I ask a question?" or "Can someone help me?", just go ahead and state your question. You might be surprised to see how much faster you'll get help by doing this.
@@ -71,7 +71,7 @@ In other words, please don't say "Can I ask a question?" or "Can someone help me
 </div>
 
 ### Questions or Complaints?
-Please feel free to contact an <!--OB-replace-->Administrator<!--OB-<&663122057818537995>--> if you have any questions or complaints regarding our staff team.
+Please feel free to contact an <!--OB-replace-->**Administrator**<!--OB-<&663122057818537995>--> if you have any questions or complaints regarding our staff team.
 
 ### Requesting Roles
 If you're a creator of a resource pack, shader pack, or other Minecraft mod, and you'd like the relevant roles to highlight your expertise, you can ping any moderator (or use the `!modping` command) to make a request.
@@ -99,4 +99,4 @@ We make use of Discord bots to provide services for you, our members, and our ow
 
 All of this data comes as provided by the Discord API. By joining and remaining in this server, you acknowledge and express consent to having your data processed in accordance to this policy. If you do not agree with this policy, you can terminate this agreement by leaving this Discord server.
 
-If you have any questions or concerns regarding this policy, please feel free to message any <!--OB-replace-->Moderator<!--OB-<&467060304145023006>--> or <!--OB-replace-->Administrator<!--OB-<&663122057818537995>-->.
+If you have any questions or concerns regarding this policy, please feel free to message any <!--OB-replace-->**Moderator**<!--OB-<&467060304145023006>--> or <!--OB-replace-->**Administrator**<!--OB-<&663122057818537995>-->.
