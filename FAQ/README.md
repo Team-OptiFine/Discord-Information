@@ -201,14 +201,14 @@ You cannot. OptiFine does not get developed for snapshot versions of Minecraft, 
 ### How do I use OptiFine on Minecraft: Windows 10 Edition/Pocket Edition?
 *Note: For the sake of simplicity, these versions will be collectively referred to by their official name: ["Bedrock Edition"](https://minecraft.gamepedia.com/Bedrock_Edition)*
 
-**You cannot.** OptiFine is purely a [Minecraft: Java Edition](https://minecraft.net/store/minecraft-java-edition) mod. The Bedrock Edition of Minecraft is NOT supported by OptiFine, as it uses an entirely different game engine and internally bears little resemblance to Java Edition. Anything that claims to be OptiFine for Bedrock/Pocket Edition is completely fraudulent, and may even be malware. Please be careful of what you're downloading.
+**You cannot.** OptiFine is purely a [Minecraft: Java Edition](https://minecraft.net/store/minecraft-java-edition) mod. The Bedrock Edition of Minecraft is NOT supported by OptiFine, as it uses an entirely different game engine and internally bears little resemblance to Java Edition. Anything that claims to be OptiFine for Bedrock Edition is completely fraudulent, and may even be malware. Please be careful of what you're downloading.
 
 <div align="center">
   <h1>Shaders</h1>
 </div>
 
 ### What are "Internal" shaders?
-"Internal" shaders enable OptiFine's shader system without loading any special shader programs (or "packs"). This can be used to test if shaders work at all on your computer (which could be useful if you have potentially outdated hardware), or they can be used to simply and quickly "disable" shaders without having to reload a significant amount of resources.
+"Internal" shaders enable OptiFine's shader system without loading any special shader programs (or "packs"). This can be used to test if shaders work at all on your computer (which could be useful if you have potentially outdated hardware), or they can be used to simply and quickly "disable" shaders without having to reload a significant amount of resources. It's worth noting that Internal shaders are explicitly designed for testing and debugging purposes only. sp614x himself has advised **not** to use these shaders for normal gameplay.
 
 ### Why does my game look brighter/shadeless when using "Internal" shaders?
 Most likely you have the shaders option "Old Lighting" disabled. You can find this option on the right panel of the shader packs menu.
@@ -217,9 +217,6 @@ Most likely you have the shaders option "Old Lighting" disabled. You can find th
 No, and for the foreseeable future, they will not. NVIDIA RTX is a very new technology, and unfortunately, the version of OpenGL that Minecraft runs on is too outdated to use it. While some shader packs are developing some form of path tracing (such as SEUS PTGI), this should not be mistaken for RTX technology.
 
 To be clear, this does NOT mean RTX cards cannot run shaders at all. This only means that shaders cannot utilize the new RT cores found in the 20-series graphics cards.
-
-### Can I use shaders without OptiFine?
-As far as we're aware, no. Currently, OptiFine is the only known mod that provides support for shader packs. Unfortunately, the original Shaders Mod (of which OptiFine shaders are based off of) no longer seems to be available to download.
 
 <div align="center">
   <h1>Discord</h1>
@@ -241,8 +238,6 @@ Additionally, there's a chance this whole workaround *may* not work for you at a
 
 ### How do I get the Donator role?
 DM (direct message) <!--OB-replace-->**@OptiBot**<!--OB-<@468582311370162176>--> or use the following command in the <!--OB-replace-->**#optibot**<!--OB-<#626843115650547743>--> channel for detailed instructions: `!help dr`
-
-**Remember,
 
 ### How do I get the Shader Developer/Texture Artist/Modder role?
 These roles are given to users that show proficiency in their given field. If you feel you qualify for one or more of these roles, simply ask any online moderator for assistance. You can summon a moderator with this command: `!modping`
